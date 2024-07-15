@@ -247,7 +247,7 @@ echo ==================================================
 echo         Visioncenter Cluster
 echo ==================================================
 echo Select an option:
-echo 1. Provision Virtual Machines
+echo 1. Provision Intellect
 echo 2. Manage Storage
 echo 3. Configure Radio Telescope
 echo 4. Back to Main Menu
@@ -263,9 +263,9 @@ goto infrastructure_as_a_service
 :provision_virtual_machines
 cls
 echo ==================================================
-echo         Provision Virtual Machines
+echo         Provision Intellect
 echo ==================================================
-:: Add your code here to handle provisioning of virtual machines
+:: Add your code here to handle provisioning of virtual machines using intellect within values and variables
 pause
 goto infrastructure_as_a_service
 
